@@ -4,18 +4,20 @@
 <h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm malek jellali </h1>
 <h3 align="center">🚀 Software Engineering Student | Cloud & DevOps Enthusiast 🌐</h3>
 <hr>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" />&nbsp;**_About me ...._**
-👨‍💻 MERN Stack Developer | Learning JEE and Python 🐍
+<div align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" alt="Profile Image" />
 
-📚 Constantly leveling up my knowledge and skills in the ever-evolving tech landscape. Embracing the challenges of cloud computing and DevOps methodologies.
+  ## About Me 💻
+</div>
 
-🔧 Currently working on mastering the MERN (MongoDB, Express.js, React, Node.js) stack, diving deep into JEE programming, and sharpening my Python proficiency.
+- 👨‍💻 **MERN Stack Developer | Learning JEE and Python 🐍**
+- 📚 Constantly leveling up my knowledge and skills in the ever-evolving tech landscape. Embracing the challenges of cloud computing and DevOps methodologies.
+- 🔧 Currently working on mastering the MERN (MongoDB, Express.js, React, Node.js) stack, diving deep into JEE programming, and sharpening my Python proficiency.
+- 🌟 Open to collaboration and always eager to explore new horizons. Let's build something amazing together!
+- 💡 Passionate about leveraging technology to create innovative solutions. Excited about the endless possibilities that software development, cloud, and DevOps bring to the table.
+- 📌 Check out my repositories below for a glimpse into my coding journey. Feel free to connect, learn, and grow with me! 🌱
 
-🌟 Open to collaboration and always eager to explore new horizons. Let's build something amazing together!
 
-💡 Passionate about leveraging technology to create innovative solutions. Excited about the endless possibilities that software development, cloud, and DevOps bring to the table.
-
-📌 Check out my repositories below for a glimpse into my coding journey. Feel free to connect, learn, and grow with me! 🌱
 <p align="center">
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" />
   <b><i>Thought: "Embrace the joy of coding, the thrill of learning, and the power of collaboration. Every line of code is an opportunity to create something extraordinary."</i></b>
@@ -23,9 +25,9 @@
 </p>
 
 
-
+<hr>
 - 📫 How to reach me **malakjellali29@gmail.com**
-  <hr>
+<hr>
 
 <div> <a href="https://www.linkedin.com/in/Malek Jellali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/malek-jellali" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
