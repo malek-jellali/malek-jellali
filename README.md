@@ -1,7 +1,8 @@
-<p align="center">
-  <img align="right" width="250px" height="250px" alt="profile-image" src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" />
-</p>
-<h1 align="center">Hi 👋, I'm malek jellai malek</h1>
+
+<img src ="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg?w=360" align="right" width="300" height="300" />
+
+<h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm malek jellali </h1>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_About me ...._**
 <h3 align="center">🚀 Software Engineering Student | Cloud & DevOps Enthusiast 🌐</h3>
 <h3 align="center">👨‍💻 MERN Stack Developer | Learning JEE and Python 🐍</h3>
 <h3 align="center">📚 Constantly leveling up my knowledge and skills in the ever-evolving tech landscape. Embracing the challenges of cloud computing and DevOps methodologies.</h3>
@@ -9,7 +10,7 @@
 <h3 align="center">🌟 Open to collaboration and always eager to explore new horizons. Let's build something amazing together!</h3>
 <h3 align="center">💡 Passionate about leveraging technology to create innovative solutions. Excited about the endless possibilities that software development, cloud, and DevOps bring to the table.</h3>
 <h3 align="center">📌 Check out my repositories below for a glimpse into my coding journey. Feel free to connect, learn, and grow with me! 🌱</h3>
-
+<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought: "Embrace the joy of coding, the thrill of learning, and the power of collaboration. Every line of code is an opportunity to create something extraordinary.”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
 
 - 📫 How to reach me **malakjellali29@gmail.com**
