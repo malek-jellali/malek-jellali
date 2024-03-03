@@ -93,7 +93,7 @@
  <br/>
 <p align="center">
 <a href="https://github.com/malek-jellali"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malek-jellali&theme=chartreuse-dark" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malek-jellali&theme=Onedark" />
 </span></a> </p>
 
  <br/>
