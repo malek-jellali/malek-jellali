@@ -10,7 +10,6 @@
   ## About Me 💻
 </div>
 
-- 👨‍💻 **MERN Stack Developer | Learning JEE and Python 🐍**
 - 📚 Constantly leveling up my knowledge and skills in the ever-evolving tech landscape. Embracing the challenges of cloud computing and DevOps methodologies.
 - 🔧 Currently working on mastering the MERN (MongoDB, Express.js, React, Node.js) stack, diving deep into JEE programming, and sharpening my Python proficiency.
 - 🌟 Open to collaboration and always eager to explore new horizons. Let's build something amazing together!
