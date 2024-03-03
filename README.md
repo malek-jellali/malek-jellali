@@ -98,7 +98,7 @@
 
  <br/>
  <br/>
- <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=malek-jellali&theme=vue" alt=""/> </p>
+ <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=malek-jellali&theme=chartreuse-dark" alt=""/> </p>
 
 <hr clear="both">
 
