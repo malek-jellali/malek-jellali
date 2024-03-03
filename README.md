@@ -2,9 +2,9 @@
 <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" align="right" width="300" height="300" />
 
 <h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm malek jellali </h1>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_About me ...._**
 <h3 align="center">🚀 Software Engineering Student | Cloud & DevOps Enthusiast 🌐</h3>
-
+<hr>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" />&nbsp;**_About me ...._**
 👨‍💻 MERN Stack Developer | Learning JEE and Python 🐍
 
 📚 Constantly leveling up my knowledge and skills in the ever-evolving tech landscape. Embracing the challenges of cloud computing and DevOps methodologies.
