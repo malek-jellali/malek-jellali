@@ -9,13 +9,13 @@
 
   ## About Me 💻
 </div>
-📚 Continuously expanding my knowledge in software development, with a focus on building high-quality and efficient solutions.
-🔧 Skilled in full-stack development using Angular and Spring Boot, working on creating dynamic and scalable web applications.
-⚙️ Currently diving into microservices architectures, focusing on designing scalable and resilient systems using technologies like Kubernetes, Docker, and cloud platforms such as AWS and Azure.
-💻 Passionate about DevOps practices, with hands-on experience in CI/CD pipelines, version control with Git, and infrastructure automation. Working with tools like Jenkins, Terraform, and Kubernetes to streamline development and deployment processes.
-🌟 Motivated to take on complex technical challenges and collaborate with teams to drive success in dynamic projects.
-💡 Enthusiastic about using technology to solve problems and create innovative solutions for modern software demands.
-📌 Explore my repositories to see the projects I’m working on. Let’s connect and collaborate to build something exceptional! 🌱
+- 📚 Continuously expanding my knowledge in software development, with a focus on building high-quality and efficient solutions.
+- 🔧 Skilled in full-stack development using Angular and Spring Boot, working on creating dynamic and scalable web applications.
+- ⚙️ Currently diving into microservices architectures, focusing on designing scalable and resilient systems using technologies like Kubernetes, Docker, and cloud platforms such as AWS and Azure.
+- 💻 Passionate about DevOps practices, with hands-on experience in CI/CD pipelines, version control with Git, and infrastructure automation. Working with tools like Jenkins, Terraform, and Kubernetes to streamline development and deployment processes.
+- 🌟 Motivated to take on complex technical challenges and collaborate with teams to drive success in dynamic projects.
+- 💡 Enthusiastic about using technology to solve problems and create innovative solutions for modern software demands.
+- 📌 Explore my repositories to see the projects I’m working on. Let’s connect and collaborate to build something exceptional! 🌱
 
 
 <p align="center">
