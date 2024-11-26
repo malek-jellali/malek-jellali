@@ -9,12 +9,13 @@
 
   ## About Me 💻
 </div>
-
-- 📚 Constantly leveling up my knowledge and skills in the ever-evolving tech landscape. Embracing the challenges of cloud computing and DevOps methodologies.
-- 🔧 Currently working on mastering the MERN (MongoDB, Express.js, React, Node.js) stack, diving deep into JEE programming, and sharpening my Python proficiency.
-- 🌟 Open to collaboration and always eager to explore new horizons. Let's build something amazing together!
-- 💡 Passionate about leveraging technology to create innovative solutions. Excited about the endless possibilities that software development, cloud, and DevOps bring to the table.
-- 📌 Check out my repositories below for a glimpse into my coding journey. Feel free to connect, learn, and grow with me! 🌱
+📚 Continuously expanding my knowledge in software development, with a focus on building high-quality and efficient solutions.
+🔧 Skilled in full-stack development using Angular and Spring Boot, working on creating dynamic and scalable web applications.
+⚙️ Currently diving into microservices architectures, focusing on designing scalable and resilient systems using technologies like Kubernetes, Docker, and cloud platforms such as AWS and Azure.
+💻 Passionate about DevOps practices, with hands-on experience in CI/CD pipelines, version control with Git, and infrastructure automation. Working with tools like Jenkins, Terraform, and Kubernetes to streamline development and deployment processes.
+🌟 Motivated to take on complex technical challenges and collaborate with teams to drive success in dynamic projects.
+💡 Enthusiastic about using technology to solve problems and create innovative solutions for modern software demands.
+📌 Explore my repositories to see the projects I’m working on. Let’s connect and collaborate to build something exceptional! 🌱
 
 
 <p align="center">
